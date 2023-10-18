@@ -28,7 +28,8 @@
                 <!-- Optional URL to server. Default value is http://localhost:9099 -->
                 <sonar.host.url>http://localhost:9099</sonar.host.url>
                 <!-- SonarQube authentication token -->
-        <sonar.token>sqp_b8b94673161f28cb7f5550571ee099519b475d8c</sonar.token>
+              <sonar.login>sqp_b8b94673161f28cb7f5550571ee099519b475d8c</sonar.login>
+       
              </properties>
         </profile>
      </profiles>
